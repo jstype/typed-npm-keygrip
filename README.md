@@ -1,4 +1,4 @@
-# Typed Keygrip  [![Build Status](https://travis-ci.org/it@github.com:jstype/typed-npm-keygrip.svg?branch=master)](https://travis-ci.org/it@github.com:jstype/typed-npm-keygrip)
+# Typed Keygrip  [![Build Status](https://travis-ci.org/jstype/typed-npm-keygrip.svg?branch=master)](https://travis-ci.org/jstype/typed-npm-keygrip)
 
 
 The type definition for [`keygrip`](git://github.com/expressjs/keygrip.git)
